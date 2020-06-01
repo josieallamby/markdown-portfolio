@@ -1,1 +1,13 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Fruits
+
+__Below is a list of fruits__
+
+## *Citrus*
+- Lemon
+- Lime
+- Orange
+
+## *Berries*
+- Raspberry
+- Blueberry
+- Blackberry
