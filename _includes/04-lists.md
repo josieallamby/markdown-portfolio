@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+# Here is a list of some colors:
+- Red
+- Orange
+- Yellow
+- Green
+- Blue
+- Indigo
+- Violet
